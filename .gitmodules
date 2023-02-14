@@ -1,6 +1,8 @@
 [submodule "docs/docs-sports"]
 	path = docs/docs-sports
 	url = https://github.com/edisonjude90/docs-sports
+	branch = main
 [submodule "docs/docs-academic"]
 	path = docs/docs-academic
 	url = https://github.com/edisonjude90/docs-academic
+	branch = main
